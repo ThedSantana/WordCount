@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">WordCount</string>
+    <string name="app_name">Word Count!</string>
+
+    <string name="word_count_field">Enter a sentence!</string>
+
 </resources>
